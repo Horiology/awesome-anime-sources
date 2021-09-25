@@ -298,5 +298,5 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [manga.tokyo/](https://manga.tokyo/)
 * [otakuusamagazine.com](https://otakuusamagazine.com)
 * [shikimori.one](https://shikimori.one/) - Russian
-<h4><LAiiBw-RXzrF3_PZUv8czZIJPMo7kuCA</h4>
+<h4>LAiiBw-RXzrF3_PZUv8czZIJPMo7kuCA</h4>
 
